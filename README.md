@@ -1,3 +1,6 @@
+***Please Run code in (colab or jupyter notebook or kaggle) to see all outputs of cells***
+
+
 California Housing Prices (Regression)
 
 A machine learning project to predict median house values in California districts using regression techniques. It includes thorough EDA, data preprocessing, feature engineering, and multiple regression models.
